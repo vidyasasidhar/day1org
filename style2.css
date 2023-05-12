@@ -1,0 +1,11 @@
+.blue{color:blue;}
+.brown{color: brown;}
+
+
+
+
+body{
+    background-image: url("FZ.jpg");
+    background-size: cover;
+    object-fit: fill;
+}

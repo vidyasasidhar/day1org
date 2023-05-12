@@ -1,0 +1,10 @@
+table,th,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+h2,h3{
+    font-style: italic;
+}
+h1{
+    text-underline-position: auto;}
+*{background-color:rgb(238, 135, 238);}
